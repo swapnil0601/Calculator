@@ -3,9 +3,9 @@ Calculator using HTML, CSS and JS
 
 ## 🔗 Links
 URL: 
-- [Github_Page]()
+- [Github_Page](https://swapnil0601.github.io/Calculator/)
 
-- [Vercel Live URL]()
+- [Vercel Live URL](https://calculator-8ev6l8thc-swapnil0601.vercel.app/)
 
 ## Authors
 
